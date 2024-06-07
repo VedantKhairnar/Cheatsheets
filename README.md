@@ -10,14 +10,14 @@ To get started, simply browse through the list of available cheatsheets below an
 
 Here are the programming languages covered in this repository:
 
-- **Python** 🐍
-- **JavaScript** 📜
-- **CSS** 🎯
-- **HTML** 🐹
-- **Angular** 🚀
-- **Rust** 🦀
-- **Node.js** 🔥
-- **TypeScript** 🦕
+- [**Python** 🐍](./PYTHON/)
+- [**JavaScript** 📜](./JAVASCRIPT/)
+- [**CSS** 🎯](./CSS/)
+- [**HTML** 🐹](./HTML/)
+- [**Angular** 🚀](./ANGULAR/)
+- [**Rust** 🦀](./RUST/)
+- [**Node.js** 🔥](./NODEJS/)
+- [**TypeScript** 🦕](./TYPESCRIPT/)
 
 ## 🌟 Why Use Cheatsheets?
 
